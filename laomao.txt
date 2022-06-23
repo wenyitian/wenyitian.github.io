@@ -1,6 +1,8 @@
 {
     
   "sites": [
+  
+   {"key": "libvio","name": "libvio","type": 1,"api": "http://xiaoguozitv.cn/catys/libvio.php","searchable": 1,"quickSearch": 1,"filterable": 0}, 
     {"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_AppYsV2_看365","name": "看365(alist)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.kan365.xyz/api.php/app/"},   
     {"key": "csp_Kunyu77","name": "酷云77(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://api.kunyu77.com/api.php"},
