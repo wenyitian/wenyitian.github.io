@@ -3,24 +3,24 @@
     {
       "key": "ysgc",
       "name": "ysgc",
-      "type": 0,
+      "type": 1,
       "api": "http://xiaoguozitv.cn/catys/ysgc.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "categories": [
-        "¹ú²ú¾ç",
-        "¸ÛÌ¨¾ç",
-        "ÈÕº«¾ç",
-        "Å·ÃÀ¾ç",
-        "Ì©¾ç",
-        "×ÛÒÕ"
+        "å›½äº§å‰§",
+        "æ¸¯å°å‰§",
+        "æ—¥éŸ©å‰§",
+        "æ¬§ç¾å‰§",
+        "æ³°å‰§",
+        "ç»¼è‰º"
       ]
     },
     {
       "key": "cokemv",
       "name": "cokemv",
-      "type": 0,
+      "type": 1,
       "api": "http://xiaoguozitv.cn/catys/cokemv.php",
       "searchable": 1,
       "quickSearch": 1,
@@ -29,7 +29,7 @@
     {
       "key": "libvio",
       "name": "libvio",
-      "type": 0,
+      "type": 1,
       "api": "http://xiaoguozitv.cn/catys/libvio.php",
       "searchable": 1,
       "quickSearch": 1,
@@ -38,10 +38,10 @@
   ],
   "lives": [
     {
-      "group": "×Ô¶¨Òå",
+      "group": "è‡ªå®šä¹‰",
       "channels": [
         {
-          "name": "Ö±²¥Ô´",
+          "name": "ç›´æ’­æº",
           "urls": [
             "about:blank"
           ]
@@ -51,7 +51,7 @@
   ],
   "parses": [
     {
-      "name": "½âÎö1",
+      "name": "è§£æ1",
       "type": 0,
       "url": "https://xxx.xxx?jx="
     }
@@ -70,7 +70,7 @@
   ],
   "ijk": [
     {
-      "group": "Èí½âÂë",
+      "group": "è½¯è§£ç ",
       "options": [
         {
           "category": 4,
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "group": "Ó²½âÂë",
+      "group": "ç¡¬è§£ç ",
       "options": [
         {
           "category": 4,
