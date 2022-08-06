@@ -1,6 +1,6 @@
 {
 	
-	"spider": "http://wenyitian.github.io/qiaoji/qiaoji.jar",
+	"spider": "http://wenyitian.github.io/qiaoji/qiaoji.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
