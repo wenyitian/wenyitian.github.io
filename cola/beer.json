@@ -1,7 +1,7 @@
 
 
 {
-	"spider": "http://wenyitian.github.io/cola/beer.jar;md5;89FE42BE4E61CCDA8FA5392546FCF821",
+	"spider": "https://wenyitian.github.io/cola/beer.jar;md5;89FE42BE4E61CCDA8FA5392546FCF821",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
