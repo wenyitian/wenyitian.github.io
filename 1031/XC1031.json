@@ -4,7 +4,7 @@
 
 
 {
-    "spider":"https://raw.githubusercontent.com/wenyitian/wenyitian.github.io/main/1031/Yoursmile1031.jar;md5;F13C4E7787CFE144974C0625EDD12C4C",
+    "spider":"https://wenyitian.github.io/1031/Yoursmile1031.jar;md5;F13C4E7787CFE144974C0625EDD12C4C",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		"group": "redirect",
