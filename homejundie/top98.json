@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/top98.jar",
+  "spider": "https://wenyitian.github.io/homejundie/top98.jar",
   "lives": [
     {
       "group": "redirect",
