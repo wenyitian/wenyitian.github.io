@@ -1,6 +1,4 @@
-//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-//Q裙：711368232
-//搜索加群第一时间了解最新消息：https://jq.qq.com/?_wv=1027&k=Ml8bJRFQ
+
 
 
 {
@@ -23,12 +21,12 @@
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "0a2940e84e584b21b372985548c5bd28"},
-{"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "0a2940e84e584b21b372985548c5bd28"},
-{"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "0a2940e84e584b21b372985548c5bd28"},
-{"key":"csp_Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "0a2940e84e584b21b372985548c5bd28"},
-{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "0a2940e84e584b21b372985548c5bd28"},
-{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "0a2940e84e584b21b372985548c5bd28"},
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/usewen/cola/-/raw/master/1126/token.txt"},
+{"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/usewen/cola/-/raw/master/1126/token.txt"},
+{"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/usewen/cola/-/raw/master/1126/token.txt"},
+{"key":"csp_Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/usewen/cola/-/raw/master/1126/token.txt"},
+{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/usewen/cola/-/raw/master/1126/token.txt"},
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/usewen/cola/-/raw/master/1126/token.txt"},
 {"key":"Lezhu_spider","name":"🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1,"ext": ""}, 
 {"key":"csp_AppTT","name":"🆗TuTu","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
