@@ -1,5 +1,4 @@
 🐉  歌华CCTV,#genre#
-CCTV1HD,http://223.111.124.239/yfsl.vsd. ... 1HDPortal_1500.m3u8
 CCTV2HD,http://yfsl.vsd.gehua.net.cn/live/CCTV2HD_6000.m3u8
 CCTV3HD,http://yfsl.vsd.gehua.net.cn/live/CCTV3HD_6000.m3u8
 CCTV4HD,http://yfsl.vsd.gehua.net.cn/live/CCTV4HD_6000.m3u8
