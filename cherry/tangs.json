@@ -3,7 +3,7 @@
     {"key":"Zjdr","name":"追剧达人","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
     {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
 	{"key":"Lib","name":"Libvio","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
-	{"key":"csp_appys_美剧虫","name":"美剧虫","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.cc/api.php/v1.vod"},
+	//{"key":"csp_appys_美剧虫","name":"美剧虫","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.cc/api.php/v1.vod"},
     {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_Ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/wenyitian/wenyitian.github.io/main/cherry/Yoursmile.jar"},
 	{"key":"csp_fant","name":"饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/wenyitian/wenyitian.github.io/main/cherry/Yoursmile.jar"},
