@@ -8,7 +8,9 @@
 {"key": "dr_真不卡", "name": "真不卡(drpy)","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://101.34.67.237/js/真不卡.js"},
 {"key": "dr_布雷蓝光","name": "布雷蓝光(drpy)", "type": 3,"api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "http://101.34.67.237/js/布雷蓝光.js"},
 {"key": "🐷","name": "乐猪(爬虫)", "type": 3, "api": "csp_Lezhu", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar"},	  
-	  
+{"key": "dr_素白白","name": "素白白(drpy)", "type": 3, "api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2, "quickSearch": 0, "filterable": 0,  "ext": "http://101.34.67.237/js/素白白.js"},
+{"key": "dr_秋霞","name": "秋霞(drpy)", "type": 3, "api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2, "quickSearch": 0, "filterable": 0,"ext": "http://101.34.67.237/js/秋霞.js"},	  
+{"key": "dr_影视工厂", "name": "影视工厂(drpy)","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js",  "searchable": 2,  "quickSearch": 0, "filterable": 0,  "ext": "http://101.34.67.237/js/影视工厂.js"},
 	  //快看,Libvio,aliyun
 	  {"key":"Kuaikan","name":"快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
 	  {"key":"Lib","name":"Libvio","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
