@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="歌华有线",CCTV1
-http://127.0.0.1:5678/ghyx.php?id=CCTV1HD_6000.m3u8
+http://127.0.0.1:5678/ghyx.php?id=CCTV1HD_6000
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="歌华有线",CCTV2
-http://127.0.0.1:5678/ghyx.php?id=CCTV2HD_6000.m3u8
+http://127.0.0.1:5678/ghyx.php?id=CCTV2HD_6000
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="歌华有线",CCTV3
-http://127.0.0.1:5678/ghyx.php?id=CCTV3HD_6000.m3u8
+http://127.0.0.1:5678/ghyx.php?id=CCTV3HD_6000
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="歌华有线",CCTV4
-http://127.0.0.1:5678/ghyx.php?id=CCTV4HD_6000.m3u8
+http://127.0.0.1:5678/ghyx.php?id=CCTV4HD_6000
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="歌华有线",CCTV5
 http://127.0.0.1:5678/ghyx.php?id=CCTV5HD_6000.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="歌华有线",CCTV5+
