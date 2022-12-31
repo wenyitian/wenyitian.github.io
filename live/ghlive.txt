@@ -1,0 +1,1 @@
+CCTV1,http://yfsv.vsd.gehua.net.cn/live/CCTV1HD_6000.m3u8
